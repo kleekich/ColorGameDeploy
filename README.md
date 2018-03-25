@@ -5,9 +5,9 @@ Color Game is a simple game that player guess a color among choices with given n
 ## Getting Started
 
 * You can start a new game by clicking new colors. 
-* Hard mode shows 6 choices of colors, and EASY mode shows 3 choices.
+* *HARD* mode shows 6 choices of colors, and *EASY* mode shows 3 choices.
 
-[Start Game Here](https://colorgame-kangsik-lee.herokuapp.com/)
+   [Start Game Here](https://colorgame-kangsik-lee.herokuapp.com/)
 
 ### Running Locally
 
@@ -49,8 +49,8 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Colt Steel
 * Demonstrating building application using static files
 * Running on a server using Node.js and Express
 * Deploying application with Heroku
+* Thanks to Colt Steel
 
