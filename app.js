@@ -9,6 +9,5 @@ app.get("/", function(req, res){
 	res.sendFile(path.join(__dirname +"/public/colorGame.html"));
 })
 
-app.listen(3000, 'localhost', function(){
-	console.log("Server started!");
-})
+var port_number = server.listen(process.env.PORT || 3000);
+app.listen(port_number);
