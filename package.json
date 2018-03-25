@@ -1,0 +1,11 @@
+{
+  "name": "color_game",
+  "version": "1.0.0",
+  "description": "Color guessing game using Javascript, html5, css, node, express, ejs, heroku, etc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kangsik Lee",
+  "license": "ISC"
+}
